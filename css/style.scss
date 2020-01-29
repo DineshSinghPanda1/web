@@ -1,0 +1,47 @@
+.container-fluid{
+    background-color: lightgray;
+    h3{
+        text-align: center;
+        color: blue;
+        font-weight: bolder;;
+    }
+}
+    
+
+
+.navbar{
+    .navbar-brand{
+         .imglogo{
+            height:10%;
+            width:10%;
+            border-radius: 1em;
+        }
+    }
+}
+.navbar{
+    .navbar-nav{
+
+        .nav-item{
+            .nav-link{
+                :hover{
+                    color: yellow;
+                
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+.container-box{
+    background-color: lightgreen;
+    .row{
+        .col-sm-4{
+           align-items: center;
+           text-align: center;
+           display: block;
+    }
+}
